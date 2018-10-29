@@ -81,3 +81,7 @@ article {
 
 /* Footer Styles */
 
+footer {
+	background: linear-gradient(325deg, rgb(180, 148, 104), rgb(40, 33, 23) 60%);
+}
+
