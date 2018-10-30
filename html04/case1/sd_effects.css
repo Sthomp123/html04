@@ -51,7 +51,8 @@
         transform: rotateY(180deg);
     }
 
-
 /* Footer Styles */
 
-
+    footer {
+        border-top: solid 2px rgb(171, 171, 171)
+    }
