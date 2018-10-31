@@ -35,7 +35,9 @@ header img {
 		margin-left:auto;
 	}
 
-header ul{
+header ul li{
 	width:100%;
 	display:inline;
-	
+	margin-right:auto;
+	margin-left:auto;
+}
